@@ -1,1 +1,1 @@
-print('This is a python application !')
+print('This is a test application !')
